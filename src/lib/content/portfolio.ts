@@ -25,7 +25,7 @@ export const seoData = {
   author: author.name,
   image:
     '',
-  url: 'https://vatsalsinghkv.vercel.app/',
+  url: 'https://portfolio-website-rust-beta-22.vercel.app/',
   keywords: [
     'Dibora',
     'Dibora Berhanu',
