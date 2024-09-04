@@ -30,6 +30,17 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       img: 'https://res.cloudinary.com/dmxwknzev/image/upload/v1723713422/bl3xqrezcc2mk6tyudku.png',
       tags: ['NextJs', 'TypeScript', 'TailwindCSS','ShadCN', 'RTK Query','Redux'],
     },
+     {
+      id: getId(),
+      name: 'Bazar',
+      description:
+        'This e-commerce site uses a chatbot for easy product listing and offers advanced filtering for a streamlined shopping experience.',
+      tasks:
+       'As a product manager, I shaped the app by conducting user interviews and market research to gather insights, understand needs, and identify trends. This helped me make informed decisions on features, aligning them with user expectations and market demands.',
+      url: 'https://bazar-teal.vercel.app/products',
+      img: 'https://res.cloudinary.com/dmxwknzev/image/upload/v1725375203/bazar_fls4wc.png',
+      tags: ['Product Management', 'Project Management', 'Market Research','User Interviews'],
+    },
 
   ],
 };
