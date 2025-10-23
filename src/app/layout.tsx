@@ -76,6 +76,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
+      <meta name="google-site-verification" content="ywTRaIXmZjCtCh0aOIdaEoEeDjMmvDTr0DDWcwLKV9I" />
         <script src="/scripts/no-flash.js" async />
       </head>
       <body className={`text-text bg-bg ${fontVariables}`}>
